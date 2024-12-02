@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BooksPdm</string>
+    <string name="book_list">Book list</string>
+    <string name="add_book">Add book</string>
+    <string name="title">Title</string>
+    <string name="isbn">ISBN</string>
+    <string name="first_author">First author</string>
+    <string name="publisher">Publisher</string>
+    <string name="edition">Edition</string>
+    <string name="number_of_pages">Number of pages</string>
+    <string name="save">Save</string>
+</resources>
